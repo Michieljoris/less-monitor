@@ -18,7 +18,7 @@
     "development"
   ],
   "bin": {
-    "less-monitor": "./bin/less-monitor"
+    "less-monitor2": "./bin/less-monitor"
   },
   "homepage": "https://github.com/michieljoris/less-monitor",
   "bugs": {
