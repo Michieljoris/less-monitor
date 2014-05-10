@@ -1,6 +1,6 @@
 {
   "name": "less-monitor2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Monitor and recompile your LESS files with automatic backwards @import parsing.",
   "author": {
     "name": "Guilherme Dupont",
