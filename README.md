@@ -1,4 +1,8 @@
-# less-monitor
+- Forked for use in linux
+- Added support for sourcemaps
+- Unix encoding for source files
+
+# less-monitor2
 
 Monitor and recompile your .less files and dependencies.
 
@@ -74,6 +78,8 @@ less-monitor [options]
                       options are: 0, 1, and 2.
 
   --compress, -c      Compresses the output
+  
+  --sourcemap, -z     Add sourcemap
 
   --silent, -s        Sets to silent mode. Starts without log output.
 

@@ -1,6 +1,6 @@
 {
-  "name": "less-monitor",
-  "version": "0.2.0",
+  "name": "less-monitor2",
+  "version": "0.1.0",
   "description": "Monitor and recompile your LESS files with automatic backwards @import parsing.",
   "author": {
     "name": "Guilherme Dupont",
@@ -20,13 +20,13 @@
   "bin": {
     "less-monitor": "./bin/less-monitor"
   },
-  "homepage": "https://github.com/gdupont/less-monitor",
+  "homepage": "https://github.com/michieljoris/less-monitor",
   "bugs": {
-    "url": "https://github.com/gdupont/less-monitor/issues"
+    "url": "https://github.com/michieljoris/less-monitor/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gdupont/less-monitor.git"
+    "url": "git://github.com/michieljoris/less-monitor.git"
   },
   "engines": {
     "node": ">=0.8.1"
